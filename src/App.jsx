@@ -112,7 +112,7 @@ function App() {
  
   return (
     <div className="App">
-      <h1>counter</h1>
+      <h1>countdown</h1>
       <div> 
           <span>{`heure : ${count.hour}`}</span>
           <span>{` minutes : ${count.min}`}</span>
